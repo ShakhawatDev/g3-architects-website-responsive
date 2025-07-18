@@ -187,6 +187,7 @@ main {
     grid-template-columns: repeat(1, 1fr);
   }
   .feature-architect-image{
+    max-width: 576px;
     width: 100%;
   }
 }
