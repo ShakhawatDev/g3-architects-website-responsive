@@ -174,7 +174,7 @@ main {
     margin-top: -100px;
 }
 .feature-architect-image{
-  width: 100;
+  width: 100%;
 }
 
 /* responsive */
@@ -185,5 +185,8 @@ main {
   }
   .team-images-container{
     grid-template-columns: repeat(1, 1fr);
+  }
+  .feature-architect-image{
+    width: 100%;
   }
 }
